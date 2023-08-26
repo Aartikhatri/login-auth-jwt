@@ -1,0 +1,12 @@
+.main-box{
+    background-color:rgba(255, 255, 255, 0.55) ;
+    border-radius:  2rem;
+    box-shadow: 0 4px 30px #4747470b;
+    backdrop-filter:  blur(7px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    @apply border-4 border-gray-50 shrink-0 h-3/4 w-[30%] rounded-3xl min-w-max 
+}
+
+input[ type ='file'] {
+    display: none;
+}

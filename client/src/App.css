@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&family=Poppins&family=Roboto&family=Roboto+Condensed&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+    background-color: #dcdce6;
+    background-image: url('https://thumbs.dreamstime.com/z/gray-blue-background-242972.jpg');
+    font-family: 'Poppins', sans-serif;
+}
